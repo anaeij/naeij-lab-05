@@ -1,0 +1,17 @@
+---
+title: "Count Regression: Workflow"
+subtitle: "Poisson, negative binomial, and probing interactions with biochemist publications"
+author: "Selena Esteves"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    embed-resources: true
+    code-tools: true
+editor: visual
+execute:
+  warning: false
+  message: false
+  echo: false
+---
+
